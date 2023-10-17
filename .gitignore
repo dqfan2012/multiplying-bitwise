@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+# Ignore IDE and code editor settings.
+.idea
+.vscode
